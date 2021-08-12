@@ -70,10 +70,5 @@ Items that we adderss before the first day at work.
 - Ask basic questions so others learn from the answers. Alternative, explain more before dive into a subject.
 - Morning talks - technical talks - need to stop and explain on what we are talking about.
 
-## Action Items 
-- Fix reoccurring events to be based on groups - Barak
-- Label the front door with the company label - Tal
-- Write a setup script for new laptop - Barak
-- Contribute scripts such as new-lakefs - Barak
 
 
