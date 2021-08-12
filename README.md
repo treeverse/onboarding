@@ -1,9 +1,6 @@
 
 # Onboarding
 
- [ ] setup script for new laptop (barak)
- [ ] contrib scripts - like new-lakefs (barak)
-
 ## Before
 
 Items that we adderss before the first day at work.
@@ -76,5 +73,7 @@ Items that we adderss before the first day at work.
 ## Action Items 
 - Fix reoccurring events to be based on groups - Barak
 - Label the front door with the company label - Tal
+- Write a setup script for new laptop - Barak
+- Contribute scripts such as new-lakefs - Barak
 
 
