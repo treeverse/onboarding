@@ -41,7 +41,7 @@ Items that we adderss before the first day at work.
 - First issue
 - First bug fix
 - Have a working debugging environment for the lakeFs backend.
-- Do not burn-out - should leave in a reasonable house
+- Do not burn-out - should leave in reasonable hours
 - First documentation update/new
 - Quickstart - running my local lakeFS with S3 bucket
 - [Go tutorial](https://tour.golang.org/welcome/1)
