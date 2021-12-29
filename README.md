@@ -1,6 +1,6 @@
 
 # Onboarding
-
+new
 ## Before
 
 Items that we adderss before the first day at work.
@@ -18,7 +18,7 @@ Items that we adderss before the first day at work.
 
 ## 0 day
 
-- Body/person will wait for him/her
+- Buddy/person will wait for him/her
 - Go over the on-boarding kit that will be shared with you via email. 
 - Open accounts
 - Get the on-boarding spreadsheet
