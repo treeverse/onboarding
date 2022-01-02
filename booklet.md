@@ -28,7 +28,7 @@ Steps:
    ```
    ./lakefs run
    ```
- 1. You should be able to browse to the UI from [http://localhost:8000].
+ 1. You should be able to browse to the UI from [http://localhost:8000](http://localhost:8000).
 
 
  ### Goal: Run lakeFS from your IDE
