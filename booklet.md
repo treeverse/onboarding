@@ -17,21 +17,22 @@ If something in the quickstart section is not clear, it needs to be improved! Fi
 
 Steps:
 1. Install Go (see which version at the top of the go.mod file in the project root).
+1. Install NodeJS.
 1. Clone lakeFS from GitHub.
 1. From the project root, build the project using Make:
-   ```
+   ```sh
    make all
    ```
-1. Install postgres
+1. Install postgres (or run using docker)
 1. Create a config file similar to [this](https://docs.lakefs.io/reference/configuration.html#example-local-development) example, under the path ~/.lakefs.yaml. Note that the `blockstore.type` is now set to `local`. This means that lakeFS will save data on your local file system. That's good for development purposes.
 1. From the project root, run lakeFS:
-   ```
+   ```sh
    ./lakefs run
    ```
  1. You should be able to browse to the UI from [http://localhost:8000](http://localhost:8000).
 
 
- ### Goal: Run lakeFS from your IDE
+### Goal: Run lakeFS from your IDE
 
 Open the project in your IDE (ask your buddy for an IntelliJ license), and run `cmd/lakefs/main.go`.
 This file compiles to the binary weran in the previous step. Don't forget to add the `run` argument.
@@ -40,6 +41,7 @@ Make sure you can access the UI.
 ### Goal: Use your local installation
 
 #### Exploring the UI
+
 From the web interface, create a repository in your local installation.
 
 Use the UI to Upload a file to the repoistory, and explore the _Uncommitted Changes_ tab in the UI.
