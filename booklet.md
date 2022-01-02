@@ -54,3 +54,13 @@ Follow the documentation in order to copy an object into your local installation
 
 Again, if something is not clear about the documentation, please take note of it.
 
+## Chapter 3: lakeFS in the cloud
+
+## Chapter 4: Under the Hood
+
+### Goal: Use lakectl cat-sst to view the internals a commit
+
+Prerequisite: complete the Graveler technical session.
+
+
+
