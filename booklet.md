@@ -9,7 +9,7 @@ Follow this section to get lakeFS up and running for the first time, add some da
 
 ### Goal: Improve the quickstart section
 
-If something in the quickstart section is not clear, it needs to be improved! First, ask your buddy or another developer for clarifcation - and take note of what needs to change in the docs. Later, after you have cloned lakeFS - you can edit the documentation to include your improvements.
+If something in the quickstart section is not clear, it needs to be improved! First, ask your buddy or another developer for clarification - and take note of what needs to change in the docs. Later, after you have cloned lakeFS - you can edit the documentation to include your improvements.
 
 ## Chapter 2: Your development environment
 
