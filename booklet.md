@@ -23,7 +23,7 @@ Steps:
    make all
    ```
 1. Install postgres
-1. Create a config file similar to [this](https://docs.lakefs.io/reference/configuration.html#example-local-development) example, under the path ~/.lakefs.yaml.
+1. Create a config file similar to [this](https://docs.lakefs.io/reference/configuration.html#example-local-development) example, under the path ~/.lakefs.yaml. Note that the `blockstore.type` is now set to `local`. This means that lakeFS will save data on your local file system. That's good for development purposes.
 1. From the project root, run lakeFS:
    ```
    ./lakefs run
@@ -34,13 +34,23 @@ Steps:
  ### Goal: Run lakeFS from your IDE
 
 Open the project in your IDE (ask your buddy for an IntelliJ license), and run `cmd/lakefs/main.go`.
-This file compiles to the binary we ran in the previous step. Don't forget to add the `run` argument.
+This file compiles to the binary weran in the previous step. Don't forget to add the `run` argument.
 Make sure you can access the UI.
 
-### Goal: Create your first repository
+### Goal: Use your local installation
 
-### Goal: Create your first commit
+#### Exploring the UI
+From the web interface, create a repository in your local installation.
 
-### Goal: Upload and commit using the CLI
+Use the UI to Upload a file to the repoistory, and explore the _Uncommitted Changes_ tab in the UI.
+You can then commit the changes or revert them.
+
+#### Using lakectl
 
 ### Goal: Upload a file using the AWS client
+
+lakeFS exposes an S3-compatible API to operate on objects. That means we can use the AWS CLI to interact with lakeFS.
+Follow the documentation in order to copy an object into your local installation.
+
+Again, if something is not clear about the documentation, please take note of it.
+
