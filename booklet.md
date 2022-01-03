@@ -35,7 +35,7 @@ Steps:
 
 ### Goal: Run lakeFS from your IDE
 
-Open the project in your IDE (ask your buddy for an IntelliJ license), and run `go run cmd/lakefs/main.go`.
+Open the project in your IDE (ask your buddy for an IntelliJ license), and run configuration for the file `cmd/lakefs/main.go`.
 This file compiles to the binary we ran in the previous step. Don't forget to add the `run` argument.
 Make sure you can access the UI.
 
