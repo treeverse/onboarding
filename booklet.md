@@ -45,7 +45,7 @@ Make sure you can access the UI.
 
 From the web interface, create a repository in your local installation.
 
-Use the UI to Upload a file to the repoistory, and explore the _Uncommitted Changes_ tab in the UI.
+Use the UI to Upload a file to the repository, and explore the _Uncommitted Changes_ tab in the UI.
 You can then commit the changes or revert them.
 
 #### Using lakectl
