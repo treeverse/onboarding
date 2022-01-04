@@ -9,7 +9,7 @@ Follow this section to get lakeFS up and running for the first time, add some da
 
 ### Goal: Improve the quickstart section
 
-If something in the quickstart section is not clear, it needs to be improved! First, ask your buddy or another developer for clarifcation - and take note of what needs to change in the docs. Later, after you have cloned lakeFS - you can edit the documentation to include your improvements.
+If something in the quickstart section is not clear, it needs to be improved! First, ask your buddy or another developer for clarification - and take note of what needs to change in the docs. Later, after you have cloned lakeFS - you can edit the documentation to include your improvements.
 
 ## Chapter 2: Your development environment
 
@@ -25,17 +25,18 @@ Steps:
    ```
 1. Install postgres (or run using docker)
 1. Create a config file similar to [this](https://docs.lakefs.io/reference/configuration.html#example-local-development) example, under the path ~/.lakefs.yaml. Note that the `blockstore.type` is now set to `local`. This means that lakeFS will save data on your local file system. That's good for development purposes.
+   <br />[You might need to add a username and a password to the connection string if you initialized the DB with credentials: `connection_string: "postgres://<USER>:<PASSWORD>@localhost:5432..."`]
 1. From the project root, run lakeFS:
    ```sh
    ./lakefs run
    ```
- 1. You should be able to browse to the UI from [http://localhost:8000](http://localhost:8000).
+1. You should be able to browse to the UI from [http://localhost:8000](http://localhost:8000).
 
 
 ### Goal: Run lakeFS from your IDE
 
-Open the project in your IDE (ask your buddy for an IntelliJ license), and run `cmd/lakefs/main.go`.
-This file compiles to the binary weran in the previous step. Don't forget to add the `run` argument.
+Open the project in your IDE (ask your buddy for an IntelliJ license), and run configuration for the file `cmd/lakefs/main.go`.
+This file compiles to the binary we ran in the previous step. Don't forget to add the `run` argument.
 Make sure you can access the UI.
 
 ### Goal: Use your local installation
@@ -44,7 +45,7 @@ Make sure you can access the UI.
 
 From the web interface, create a repository in your local installation.
 
-Use the UI to Upload a file to the repoistory, and explore the _Uncommitted Changes_ tab in the UI.
+Use the UI to Upload a file to the repository, and explore the _Uncommitted Changes_ tab in the UI.
 You can then commit the changes or revert them.
 
 #### Using lakectl
