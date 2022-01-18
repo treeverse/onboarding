@@ -59,6 +59,11 @@ Again, if something is not clear about the documentation, please take note of it
 
 ## Chapter 3: lakeFS in the cloud
 
+### Goal: Spin-up lakeFS using our Terraform configuration
+
+Use our [Terraform configuration](https://github.com/treeverse/terraform/lakefs-on-ecs) to deploy lakeFS on AWS.
+Make sure you can use the enviornment. Destroy it when done.
+
 ## Chapter 4: Under the Hood
 
 ### Goal: Use lakectl cat-sst to view the internals a commit
