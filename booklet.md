@@ -1,5 +1,10 @@
 # lakeFS developer booklet
 
+## Chapter 0: Become a fan
+
+Give a GitHub star to the [lakeFS](https://github.com/treeverse/lakefs) repository, and to our other public repositories:
+[boto-s3-router](https://github.com/treeverse/boto-s3-router), [terminus](https://github.com/treeverse/terminus), [charts](https://github.com/treeverse/charts), [blogs](https://github.com/treeverse/blogs) and [lakeview](https://github.com/treeverse/lakeview).
+
 ## Chapter 1: Following the quickstart section
 
 ### Goal: Follow the quickstart section on the documentation
@@ -74,3 +79,10 @@ Prerequisite: complete the Graveler technical session.
 
 ### Goal: Use refs-dump and refs-restore to export and import data
 
+### Goal: Use the [lakeFS Spark metadata client](https://github.com/treeverse/lakeFS/tree/master/clients/spark) to list objects
+
+## Chapter 5: Advanced Feature
+
+### Goal: use `lakefs import` and `lakectl ingest` to import data into lakeFS.
+
+### Goal: export data from lakeFS to S3
