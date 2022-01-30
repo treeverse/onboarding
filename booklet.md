@@ -37,6 +37,13 @@ Steps:
    ```
 1. You should be able to browse to the UI from [http://localhost:8000](http://localhost:8000).
 
+### Goal: Build and run lakeFS UI development environment locally
+1. From lakeFS/webui run:
+   ```sh
+   npm run dev
+   ```
+1. You should be able to browse the UI from [http://localhost:3000](http://localhost:3000).
+
 
 ### Goal: Run lakeFS from your IDE
 
