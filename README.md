@@ -13,8 +13,8 @@ Items that we adderss before the first day at work.
 - Hardware - question/recommendation (order before) - specify the hardware we currently use and need to choose
 - Sign everything that possible before
 - Parking (if needed)
-- Create an on-boarding spreadsheet from tempalte and adjust reading material under "Documentation" tab if needed. 
-- Adjust the on-boarding kit to the new employee's name
+- Create an on-boarding spreadsheet from template and adjust reading material under "Documentation" tab if needed. The template can be found [here](https://docs.google.com/spreadsheets/d/1_DMamqKUdF1YAwDX_wy9L9Mwqhu1r95FHyr6ip08GjM/edit#gid=1763501438).
+- Adjust the on-boarding kit to the new employee's name. The template can be found [here](https://docs.google.com/presentation/d/1u4ld6dSjNFih6lXlHe7ua1ue2iT7mmYXGu1QU3_FSks/edit#slide=id.g8a3f4299ed_1_12).
 
 ## 0 day
 
