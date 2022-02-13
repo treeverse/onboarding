@@ -74,6 +74,7 @@ Items that we adderss before the first day at work.
 
 - Acknowledge & respond to community-related questions in a timely fashion (SLA: 15m for acklowledgement)
 - Acknowledge & work on resolving production incidents as soon as possible
+- For non-production issues, try to communiate the estimate time to fix
 - Communicate incidents and system status to the relevant stakeholders
 - Document incidents, actions taken and resolution for further analysis and audit
 - Conduct a postmortem and a root-cause analysis after production incidents
