@@ -54,7 +54,7 @@ Items that we adderss before the first day at work.
 - First feature (PR + testing)
 - Post a PR on master - UI, backend, hadoopfs
 - Release a lakeFS version
-- Join the On-call rotation
+- Join the On-call rotation (See On-Call Responsibilities below)
 - Show and tell - something you worked on. It could be a walkthrough a bug fix, or a small feature you implemented. 
 - Learn to use lakeFS through different deployments, cli, api, spark and etc
 - Write a blog post
@@ -70,5 +70,12 @@ Items that we adderss before the first day at work.
 - Ask basic questions so others learn from the answers. Alternative, explain more before dive into a subject.
 - Morning talks - technical talks - need to stop and explain on what we are talking about.
 
+## On-Call Responsibilities 
 
-
+- Acknowledge & respond to community-related questions in a timely fashion
+- Acknowledge & work on resolving production incidents as soon as possible
+- Communicate incidents and system status to the relevant stackholders
+- Document incidents, actions taken and resolution for further analysis and audit
+- Conduct a postmortem and a root-cause analysis after production incidents
+- Take pro-active approach to improve visibility and alerting coverage
+- Strive to pass a clean shift and full context to the next on-call rotation
