@@ -72,10 +72,11 @@ Items that we adderss before the first day at work.
 
 ## On-Call Responsibilities 
 
-- Acknowledge & respond to community-related questions in a timely fashion
+- Acknowledge & respond to community-related questions in a timely fashion (SLA: 15m for acklowledgement)
 - Acknowledge & work on resolving production incidents as soon as possible
 - Communicate incidents and system status to the relevant stakeholders
 - Document incidents, actions taken and resolution for further analysis and audit
 - Conduct a postmortem and a root-cause analysis after production incidents
-- Take pro-active approach to improve visibility and alerting coverage
+- Take a pro-active approach to improve visibility and alerting coverage
+- Take a pro-active approach to understand user needs and use cases
 - Strive to pass a clean shift and full context to the next on-call rotation
