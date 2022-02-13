@@ -3,7 +3,7 @@
 new
 ## Before
 
-Items that we adderss before the first day at work.
+Items that we address before the first day at work.
 
 - Assign a buddy
 - Get a copy of [Designing Data-Intensive Applications](https://www.amazon.com/dp/1449373321)
