@@ -74,7 +74,7 @@ Items that we adderss before the first day at work.
 
 - Acknowledge & respond to community-related questions in a timely fashion
 - Acknowledge & work on resolving production incidents as soon as possible
-- Communicate incidents and system status to the relevant stackholders
+- Communicate incidents and system status to the relevant stakeholders
 - Document incidents, actions taken and resolution for further analysis and audit
 - Conduct a postmortem and a root-cause analysis after production incidents
 - Take pro-active approach to improve visibility and alerting coverage
