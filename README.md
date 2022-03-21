@@ -81,3 +81,9 @@ Items that we address before the first day at work.
 - Take a pro-active approach to improve visibility and alerting coverage
 - Take a pro-active approach to understand user needs and use cases
 - Strive to pass a clean shift and full context to the next on-call rotation
+- After finishing a conversation with users that included support, create a Slack reminder in [#on-call-bookkeeping](https://treeverseio.slack.com/archives/C038191FJGL) to follow-up with the user after 48 hours. 
+Reminder template 
+```/remind #on-call-bookkeeping to followup with <SlackUserName> in 48 hours```
+The follow up conversation should be informal, we want to ask thinkgs like "How is it going", "Did you make progress". 
+
+
